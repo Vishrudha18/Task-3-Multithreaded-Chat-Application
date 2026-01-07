@@ -103,6 +103,18 @@ Each run represents a **new user**.
 
 ---
 
+## Output
+
+<img width="1917" height="1013" alt="Image" src="https://github.com/user-attachments/assets/a9c7779e-c948-4f84-b2ff-5bd80dc6074e" />
+
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/20612d44-ade3-404c-8857-c5352b93757d" />
+
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/4947a088-98aa-483c-9dce-f7e00e15f376" />
+
+<img width="1919" height="1012" alt="Image" src="https://github.com/user-attachments/assets/4c40622f-050a-42b6-b9dc-e9da16fb445d" />
+
+---
+
 ## 🧪 Testing the Chat
 
 - Type a message in **Client 1**
